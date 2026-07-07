@@ -1,14 +1,22 @@
 # Hi, I'm James Banday 👋
 
-![Top Secret/SCI](https://img.shields.io/badge/Clearance-Top%20Secret%2FSCI-red)
-![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red)
-![CEH](https://img.shields.io/badge/EC--Council-CEH-blue)
-![CNDA](https://img.shields.io/badge/EC--Council-CNDA-green)
-![ITIL v4](https://img.shields.io/badge/ITIL-v4-purple)
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
-![Terraform](https://img.shields.io/badge/Terraform-IaC-623CE4)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-EKS-326CE5)
-![Python](https://img.shields.io/badge/Python-Automation-yellow)
+![Top Secret/SCI](https://img.shields.io/badge/Clearance-Top%20Secret%2FSCI-red?style=for-the-badge)
+
+![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=comptia)
+
+![CEH](https://img.shields.io/badge/EC--Council-CEH-blue?style=for-the-badge)
+
+![CNDA](https://img.shields.io/badge/EC--Council-CNDA-green?style=for-the-badge)
+
+![ITIL v4](https://img.shields.io/badge/ITIL-v4-purple?style=for-the-badge)
+
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws)
+
+![Terraform](https://img.shields.io/badge/Terraform-IaC-623CE4?style=for-the-badge&logo=terraform)
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-EKS-326CE5?style=for-the-badge&logo=kubernetes)
+
+![Python](https://img.shields.io/badge/Python-Automation-yellow?style=for-the-badge&logo=python)
 
 ## Threat Hunter | Cyber Intrusion Analyst | Cloud Security | Kubernetes | DevSecOps | Incident Response
 
