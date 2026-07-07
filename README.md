@@ -3,16 +3,16 @@
 <p align="left">
 
 ![Top Secret/SCI](https://img.shields.io/badge/Clearance-Top%20Secret%2FSCI-red?style=for-the-badge)
-![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=comptia)
+![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=comptia&logoColor=white)
 ![CEH](https://img.shields.io/badge/EC--Council-CEH-blue?style=for-the-badge)
 ![CNDA](https://img.shields.io/badge/EC--Council-CNDA-green?style=for-the-badge)
 ![ITIL v4](https://img.shields.io/badge/ITIL-v4-purple?style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws)
-![Azure](https://img.shields.io/badge/Azure-Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Microsoft Entra ID](https://img.shields.io/badge/Microsoft-Entra%20ID-Identity-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-IaC-623CE4?style=for-the-badge&logo=terraform)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-EKS-326CE5?style=for-the-badge&logo=kubernetes)
-![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-2088FF?style=for-the-badge&logo=githubactions)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Microsoft Entra ID](https://img.shields.io/badge/Microsoft%20Entra%20ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-EKS-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Automation-FFD43B?style=for-the-badge&logo=python&logoColor=black)
 
 </p>
@@ -23,9 +23,9 @@
 
 ---
 
-## About Me
+# About Me
 
-I'm a cybersecurity professional with **8+ years** supporting Department of Defense and federal cybersecurity operations.
+I'm a cybersecurity professional with **8+ years** of experience supporting Department of Defense and federal cybersecurity operations.
 
 My experience includes:
 
@@ -40,7 +40,7 @@ My experience includes:
 - Microsoft Entra ID
 - Identity & Access Management (IAM)
 
-I enjoy building enterprise-scale cybersecurity projects that demonstrate real-world cloud security, automation, detection engineering, DevSecOps, AI-assisted security operations, and Zero Trust architectures.
+I enjoy building enterprise-scale cybersecurity projects that demonstrate real-world security operations, cloud security engineering, Infrastructure as Code (IaC), DevSecOps, AI-assisted security operations, Kubernetes security, and Zero Trust architectures.
 
 ---
 
@@ -48,7 +48,7 @@ I enjoy building enterprise-scale cybersecurity projects that demonstrate real-w
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,github,python,bash,powershell,vscode"/>
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,github,python,bash,powershell,linux,vscode" />
 
 </p>
 
@@ -75,22 +75,23 @@ I enjoy building enterprise-scale cybersecurity projects that demonstrate real-w
 
 # Technical Skills
 
-### Cloud
+## ☁️ Cloud
 
-- AWS
-- Azure
+- Amazon Web Services (AWS)
+- Microsoft Azure
 - Microsoft Entra ID
 - AWS IAM
+- AWS IAM Identity Center
 
-### Containers
+## ☸️ Containers
 
 - Kubernetes
 - Amazon EKS
-- OpenShift
+- Red Hat OpenShift
 - Docker
 - Helm
 
-### DevSecOps
+## 🚀 DevSecOps
 
 - GitHub Actions
 - GitOps
@@ -102,7 +103,7 @@ I enjoy building enterprise-scale cybersecurity projects that demonstrate real-w
 - Amazon ECS
 - AWS Fargate
 
-### Security
+## 🛡️ Security
 
 - Splunk Enterprise
 - Microsoft Sentinel
@@ -116,7 +117,7 @@ I enjoy building enterprise-scale cybersecurity projects that demonstrate real-w
 - Sigma
 - MITRE ATT&CK
 
-### Programming
+## 💻 Programming
 
 - Python
 - PowerShell
@@ -130,45 +131,30 @@ I enjoy building enterprise-scale cybersecurity projects that demonstrate real-w
 | Project | Description |
 |----------|-------------|
 | 🤖 **AI-Powered Threat Detection Platform** | AI-assisted Kubernetes threat detection, SOAR automation, MITRE ATT&CK mapping, and cloud security analytics. |
-| ☁️ **Enterprise Multi-Cloud CI/CD Platform** | GitHub Actions, Docker, Terraform, OIDC, AWS CodePipeline, Infrastructure as Code, AWS & Azure deployments. |
+| ☁️ **Enterprise Multi-Cloud CI/CD Platform** | GitHub Actions, Docker, Terraform, OIDC authentication, AWS CodePipeline, Infrastructure as Code, and automated deployments across AWS and Azure. |
 | 🤖 **GitHub AI Agent** | AI-powered GitHub workflow automation with governance, approvals, CI/CD, and security validation. |
 | 🧠 **AI Threat Hunt Agent (Microsoft Foundry)** | AI-assisted SOC analyst for automated threat hunting, investigation, and incident response. |
-| 🚀 **Enterprise OpenShift DevSecOps Platform** | OpenShift Pipelines, SAST, DAST, Trivy, GitOps, Kubernetes Security, and Python automation. |
-| 🧠 **Foundry IQ Agent** | AI-powered security intelligence assistant built with Microsoft Foundry. |
+| 🚀 **Enterprise OpenShift DevSecOps Platform** | OpenShift Pipelines, SAST, DAST, Trivy, GitOps, Kubernetes security, and Python automation. |
+| 🧠 **Foundry IQ Agent** | AI-powered security intelligence assistant built using Microsoft Foundry. |
 | 🎯 **Enterprise Threat Hunting Platform** | MITRE ATT&CK, Sigma, YARA, detection engineering, threat intelligence, and SOC workflows. |
 | ☸️ **Enterprise Amazon EKS Security Platform** | Amazon EKS, Falco, Infrastructure as Code, Kubernetes security, and continuous monitoring. |
-| 🔐 **AWS Zero Trust Architecture** | IAM, RBAC, least privilege, identity federation, and Zero Trust cloud security. |
+| 🔐 **AWS Zero Trust Architecture** | IAM, RBAC, least privilege, identity federation, and Zero Trust cloud security architecture. |
 
 ---
 
-## Project Links
+# Project Repositories
 
-- AI-Powered Threat Detection Platform  
-  https://github.com/jbanday808/ai-powered-threat-detection-platform
-
-- Enterprise Multi-Cloud CI/CD Platform  
-  https://github.com/jbanday808/multi-cloud-cicd
-
-- GitHub AI Agent  
-  https://github.com/jbanday808/github-ai-agent
-
-- AI Threat Hunt Agent (Microsoft Foundry)  
-  https://github.com/jbanday808/ai-threat-hunt-agent-foundry
-
-- Enterprise OpenShift DevSecOps Platform  
-  https://github.com/jbanday808/python-openshift-cicd
-
-- Foundry IQ Agent  
-  https://github.com/jbanday808/foundry-iq-agent
-
-- Enterprise Threat Hunting Platform  
-  https://github.com/jbanday808/Enterprise-Threat-Hunting
-
-- Enterprise Amazon EKS Security Platform  
-  https://github.com/jbanday808/enterprise-eks-security-platform
-
-- AWS Zero Trust Architecture  
-  https://github.com/jbanday808/aws-zero-trust-architecture
+| Repository | Link |
+|------------|------|
+| AI-Powered Threat Detection Platform | https://github.com/jbanday808/ai-powered-threat-detection-platform |
+| Enterprise Multi-Cloud CI/CD Platform | https://github.com/jbanday808/multi-cloud-cicd |
+| GitHub AI Agent | https://github.com/jbanday808/github-ai-agent |
+| AI Threat Hunt Agent (Microsoft Foundry) | https://github.com/jbanday808/ai-threat-hunt-agent-foundry |
+| Enterprise OpenShift DevSecOps Platform | https://github.com/jbanday808/python-openshift-cicd |
+| Foundry IQ Agent | https://github.com/jbanday808/foundry-iq-agent |
+| Enterprise Threat Hunting Platform | https://github.com/jbanday808/Enterprise-Threat-Hunting |
+| Enterprise Amazon EKS Security Platform | https://github.com/jbanday808/enterprise-eks-security-platform |
+| AWS Zero Trust Architecture | https://github.com/jbanday808/aws-zero-trust-architecture |
 
 ---
 
@@ -177,10 +163,11 @@ I enjoy building enterprise-scale cybersecurity projects that demonstrate real-w
 - Microsoft Entra ID Identity Governance
 - Okta Identity & Access Management
 - AWS IAM
+- AWS IAM Identity Center
 - Enterprise ICAM Platform
 - Hybrid Active Directory & Microsoft Entra ID
 - Zero Trust Identity Architecture
-- Detection Engineering
+- Detection Engineering (Sigma, YARA, Suricata)
 - AI Security Operations
 - Cloud Security Automation
 
@@ -192,15 +179,6 @@ I enjoy building enterprise-scale cybersecurity projects that demonstrate real-w
 - Certified Network Defense Architect (CNDA)
 - CompTIA Security+
 - ITIL v4
-
----
-
-# GitHub Statistics
-
-<p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jbanday808&show_icons=true&theme=github_dark" height="170"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jbanday808&layout=compact&theme=github_dark" height="170"/>
-</p>
 
 ---
 
@@ -225,17 +203,14 @@ I'm interested in opportunities involving:
 
 # Let's Connect
 
-**LinkedIn**
+- **LinkedIn:**  
+  https://www.linkedin.com/in/james-allen-morta-banday-62a391128/
 
-https://www.linkedin.com/in/james-allen-morta-banday-62a391128/
+- **GitHub:**  
+  https://github.com/jbanday808
 
-**GitHub**
-
-https://github.com/jbanday808
-
-**Email**
-
-jamesbanday1@gmail.com
+- **Email:**  
+  jamesbanday1@gmail.com
 
 ---
 
