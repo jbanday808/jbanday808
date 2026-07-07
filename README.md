@@ -42,8 +42,6 @@ My experience includes:
 
 I enjoy building enterprise-scale cybersecurity projects that demonstrate real-world security operations, cloud security engineering, Infrastructure as Code (IaC), DevSecOps, AI-assisted security operations, Kubernetes security, and Zero Trust architectures.
 
----
-
 ## 🏆 Achievements
 
 - 🛡️ Active Top Secret/SCI Clearance
@@ -51,6 +49,9 @@ I enjoy building enterprise-scale cybersecurity projects that demonstrate real-w
 - 🎯 655 Hack The Box targets compromised
 - 📚 Completed 6 Hack The Box Academy learning paths
 - 🤖 Built 9+ enterprise cybersecurity and AI security projects
+
+---
+
 
 # Technology Stack
 
