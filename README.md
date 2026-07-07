@@ -1,16 +1,26 @@
 # Hi, I'm James Banday 👋
 
+![Top Secret/SCI](https://img.shields.io/badge/Clearance-Top%20Secret%2FSCI-red)
+![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red)
+![CEH](https://img.shields.io/badge/EC--Council-CEH-blue)
+![CNDA](https://img.shields.io/badge/EC--Council-CNDA-green)
+![ITIL v4](https://img.shields.io/badge/ITIL-v4-purple)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-623CE4)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-EKS-326CE5)
+![Python](https://img.shields.io/badge/Python-Automation-yellow)
+
 ## Threat Hunter | Cyber Intrusion Analyst | Cloud Security | Kubernetes | DevSecOps | Incident Response
 
-Active Top Secret/SCI Clearance
-
-I'm a cybersecurity professional with 8+ years of experience supporting Department of Defense and federal cybersecurity operations. My background includes Security Operations Center (SOC) operations, threat hunting, incident response, malware analysis, detection engineering, cloud security, Kubernetes security, DevSecOps, and Identity & Access Management (IAM).
-
-I enjoy building hands-on cybersecurity projects that demonstrate real-world security operations, cloud security engineering, automation, and detection capabilities.
+**Active Top Secret/SCI Clearance**
 
 ---
 
-# Areas of Expertise
+## About Me
+
+I'm a cybersecurity professional with **8+ years** supporting Department of Defense and federal cybersecurity operations.
+
+My experience includes:
 
 - Security Operations Center (SOC)
 - Threat Hunting
@@ -21,11 +31,37 @@ I enjoy building hands-on cybersecurity projects that demonstrate real-world sec
 - Kubernetes Security
 - DevSecOps
 - Microsoft Entra ID
+- Identity & Access Management (IAM)
+
+I enjoy building enterprise-scale cybersecurity projects that demonstrate real-world cloud security, automation, detection engineering, DevSecOps, AI-assisted security operations, and Zero Trust architectures.
+
+---
+
+# Technology Stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,github,python,bash,powershell,vscode"/>
+
+</p>
+
+---
+
+# Areas of Expertise
+
+- Threat Hunting
+- Incident Response
+- Detection Engineering
+- Malware Analysis
+- Cloud Security
+- Kubernetes Security
+- DevSecOps
+- Microsoft Entra ID
 - Active Directory
 - Identity & Access Management (IAM)
 - Infrastructure as Code (Terraform)
 - AWS Security
-- Zero Trust
+- Zero Trust Architecture
 - AI Security Automation
 
 ---
@@ -37,6 +73,7 @@ I enjoy building hands-on cybersecurity projects that demonstrate real-world sec
 - AWS
 - Azure
 - Microsoft Entra ID
+- AWS IAM
 
 ### Containers
 
@@ -54,117 +91,77 @@ I enjoy building hands-on cybersecurity projects that demonstrate real-world sec
 - Terraform
 - AWS CloudFormation
 - AWS CDK
+- Amazon ECR
+- Amazon ECS
+- AWS Fargate
 
 ### Security
 
 - Splunk Enterprise
 - Microsoft Sentinel
 - Trellix EDR
+- Cisco FMC
 - Zeek
 - Suricata
 - Falco
 - Trivy
 - YARA
 - Sigma
+- MITRE ATT&CK
 
 ### Programming
 
 - Python
 - PowerShell
-- KQL
 - Bash
+- KQL
 
 ---
 
 # Featured Projects
 
-## AI-Powered Threat Detection Platform
-
-AI-assisted Kubernetes threat detection, incident response, SOAR automation, MITRE ATT&CK mapping, and cloud security analytics.
-
-Repository
-
-https://github.com/jbanday808/ai-powered-threat-detection-platform
-
----
-
-## Enterprise Multi-Cloud CI/CD Platform
-
-Enterprise DevSecOps platform featuring GitHub Actions, Docker, OIDC authentication, Infrastructure as Code, and automated deployments across AWS and Azure.
-
-Repository
-
-https://github.com/jbanday808/multi-cloud-cicd
+| Project | Description |
+|----------|-------------|
+| 🤖 **AI-Powered Threat Detection Platform** | AI-assisted Kubernetes threat detection, SOAR automation, MITRE ATT&CK mapping, and cloud security analytics. |
+| ☁️ **Enterprise Multi-Cloud CI/CD Platform** | GitHub Actions, Docker, Terraform, OIDC, AWS CodePipeline, Infrastructure as Code, AWS & Azure deployments. |
+| 🤖 **GitHub AI Agent** | AI-powered GitHub workflow automation with governance, approvals, CI/CD, and security validation. |
+| 🧠 **AI Threat Hunt Agent (Microsoft Foundry)** | AI-assisted SOC analyst for automated threat hunting, investigation, and incident response. |
+| 🚀 **Enterprise OpenShift DevSecOps Platform** | OpenShift Pipelines, SAST, DAST, Trivy, GitOps, Kubernetes Security, and Python automation. |
+| 🧠 **Foundry IQ Agent** | AI-powered security intelligence assistant built with Microsoft Foundry. |
+| 🎯 **Enterprise Threat Hunting Platform** | MITRE ATT&CK, Sigma, YARA, detection engineering, threat intelligence, and SOC workflows. |
+| ☸️ **Enterprise Amazon EKS Security Platform** | Amazon EKS, Falco, Infrastructure as Code, Kubernetes security, and continuous monitoring. |
+| 🔐 **AWS Zero Trust Architecture** | IAM, RBAC, least privilege, identity federation, and Zero Trust cloud security. |
 
 ---
 
-## GitHub AI Agent
+## Project Links
 
-AI-powered GitHub workflow automation with governance, approvals, CI/CD, and security validation.
+- AI-Powered Threat Detection Platform  
+  https://github.com/jbanday808/ai-powered-threat-detection-platform
 
-Repository
+- Enterprise Multi-Cloud CI/CD Platform  
+  https://github.com/jbanday808/multi-cloud-cicd
 
-https://github.com/jbanday808/github-ai-agent
+- GitHub AI Agent  
+  https://github.com/jbanday808/github-ai-agent
 
----
+- AI Threat Hunt Agent (Microsoft Foundry)  
+  https://github.com/jbanday808/ai-threat-hunt-agent-foundry
 
-## AI Threat Hunt Agent (Microsoft Foundry)
+- Enterprise OpenShift DevSecOps Platform  
+  https://github.com/jbanday808/python-openshift-cicd
 
-AI-assisted SOC analyst built with Microsoft Foundry for automated threat hunting, investigation, and incident response.
+- Foundry IQ Agent  
+  https://github.com/jbanday808/foundry-iq-agent
 
-Repository
+- Enterprise Threat Hunting Platform  
+  https://github.com/jbanday808/Enterprise-Threat-Hunting
 
-https://github.com/jbanday808/ai-threat-hunt-agent-foundry
+- Enterprise Amazon EKS Security Platform  
+  https://github.com/jbanday808/enterprise-eks-security-platform
 
----
-
-## Enterprise OpenShift DevSecOps Platform
-
-Python automation, OpenShift Pipelines, SAST, DAST, Trivy, GitOps, and Kubernetes security.
-
-Repository
-
-https://github.com/jbanday808/python-openshift-cicd
-
----
-
-## Foundry IQ Agent
-
-AI-powered security intelligence assistant built using Microsoft Foundry.
-
-Repository
-
-https://github.com/jbanday808/foundry-iq-agent
-
----
-
-## Enterprise Threat Hunting Platform
-
-Enterprise threat hunting framework using MITRE ATT&CK, Sigma, YARA, detection engineering, and SOC workflows.
-
-Repository
-
-https://github.com/jbanday808/Enterprise-Threat-Hunting
-
----
-
-## Enterprise Amazon EKS Security Platform
-
-Cloud-native Kubernetes security platform using Amazon EKS, Falco, Infrastructure as Code, and continuous monitoring.
-
-Repository
-
-https://github.com/jbanday808/enterprise-eks-security-platform
-
----
-
-## AWS Zero Trust Architecture
-
-Enterprise AWS Zero Trust implementation using IAM, RBAC, least privilege, identity federation, and cloud security best practices.
-
-Repository
-
-https://github.com/jbanday808/aws-zero-trust-architecture
+- AWS Zero Trust Architecture  
+  https://github.com/jbanday808/aws-zero-trust-architecture
 
 ---
 
@@ -174,6 +171,8 @@ https://github.com/jbanday808/aws-zero-trust-architecture
 - Okta Identity & Access Management
 - AWS IAM
 - Enterprise ICAM Platform
+- Hybrid Active Directory & Microsoft Entra ID
+- Zero Trust Identity Architecture
 - Detection Engineering
 - AI Security Operations
 - Cloud Security Automation
@@ -189,6 +188,14 @@ https://github.com/jbanday808/aws-zero-trust-architecture
 
 ---
 
+# GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jbanday808&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jbanday808&layout=compact)
+
+---
+
 # Career Interests
 
 I'm interested in opportunities involving:
@@ -197,10 +204,12 @@ I'm interested in opportunities involving:
 - Incident Response
 - Detection Engineering
 - Cloud Security
-- Kubernetes Security
 - DevSecOps
+- Platform Security
+- Kubernetes Security
 - Microsoft Entra ID
 - Identity & Access Management
+- Cloud IAM
 - Security Automation
 - AI for Cybersecurity
 
@@ -208,15 +217,15 @@ I'm interested in opportunities involving:
 
 # Let's Connect
 
-LinkedIn
+**LinkedIn**
 
 https://www.linkedin.com/in/james-allen-morta-banday-62a391128/
 
-GitHub
+**GitHub**
 
 https://github.com/jbanday808
 
-Email
+**Email**
 
 jamesbanday1@gmail.com
 
