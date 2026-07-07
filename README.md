@@ -198,9 +198,9 @@ I enjoy building enterprise-scale cybersecurity projects that demonstrate real-w
 
 # GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jbanday808&show_icons=true&theme=default)
+![James's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jbanday808&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jbanday808&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jbanday808&layout=compact&theme=tokyonight)
 
 ---
 
