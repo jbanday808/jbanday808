@@ -7,6 +7,7 @@
 ![CEH](https://img.shields.io/badge/EC--Council-CEH-blue?style=for-the-badge)
 ![CNDA](https://img.shields.io/badge/EC--Council-CNDA-green?style=for-the-badge)
 ![ITIL v4](https://img.shields.io/badge/ITIL-v4-purple?style=for-the-badge)
+![Hack The Box Academy](https://img.shields.io/badge/Hack%20The%20Box%20Academy-Top%201%25-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
@@ -42,6 +43,14 @@ My experience includes:
 I enjoy building enterprise-scale cybersecurity projects that demonstrate real-world security operations, cloud security engineering, Infrastructure as Code (IaC), DevSecOps, AI-assisted security operations, Kubernetes security, and Zero Trust architectures.
 
 ---
+
+## 🏆 Achievements
+
+- 🛡️ Active Top Secret/SCI Clearance
+- 🏅 Top 1% on Hack The Box Academy
+- 🎯 655 Hack The Box targets compromised
+- 📚 Completed 6 Hack The Box Academy learning paths
+- 🤖 Built 9+ enterprise cybersecurity and AI security projects
 
 # Technology Stack
 
