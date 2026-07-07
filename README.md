@@ -199,14 +199,8 @@ I enjoy building enterprise-scale cybersecurity projects that demonstrate real-w
 # GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=jbanday808&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbanday808&layout=compact&theme=github_dark&hide_border=true"
-    height="170"
-  />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jbanday808&show_icons=true&theme=github_dark" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jbanday808&layout=compact&theme=github_dark" height="170"/>
 </p>
 
 ---
