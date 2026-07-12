@@ -25,22 +25,25 @@
 
 # About Me
 
-I'm a cybersecurity professional with **8+ years** of experience supporting Department of Defense and federal cybersecurity operations.
+I'm a cybersecurity professional with **8+ years of experience** supporting Department of Defense and federal cybersecurity operations.
 
 My experience includes:
 
-- Security Operations Center (SOC)
-- Threat Hunting
-- Incident Response
-- Malware Analysis
-- Detection Engineering
-- Cloud Security
-- Kubernetes Security
+- Security Operations Center operations
+- Threat hunting
+- Incident response
+- Malware analysis
+- Detection engineering
+- Cloud security
+- Kubernetes security
 - DevSecOps
 - Microsoft Entra ID
-- Identity & Access Management (IAM)
+- Identity and Access Management
+- Zero Trust architecture
+- Risk Management Framework
+- DISA STIG governance
 
-I enjoy building enterprise-scale cybersecurity projects that demonstrate real-world security operations, cloud security engineering, Infrastructure as Code (IaC), DevSecOps, AI-assisted security operations, Kubernetes security, and Zero Trust architectures.
+I enjoy building enterprise-scale cybersecurity projects that demonstrate practical security operations, cloud security engineering, Infrastructure as Code, DevSecOps, AI-assisted security operations, Kubernetes security, risk governance, and Zero Trust architecture.
 
 ## 🏆 Achievements
 
@@ -48,10 +51,9 @@ I enjoy building enterprise-scale cybersecurity projects that demonstrate real-w
 - 🏅 Top 1% on Hack The Box Academy
 - 🎯 655 Hack The Box targets compromised
 - 📚 Completed 6 Hack The Box Academy learning paths
-- 🤖 Built 9+ enterprise cybersecurity and AI security projects
+- 🤖 Built 10+ enterprise cybersecurity and AI security projects
 
 ---
-
 
 # Technology Stack
 
@@ -74,10 +76,12 @@ I enjoy building enterprise-scale cybersecurity projects that demonstrate real-w
 - DevSecOps
 - Microsoft Entra ID
 - Active Directory
-- Identity & Access Management (IAM)
-- Infrastructure as Code (Terraform)
+- Identity and Access Management
+- Infrastructure as Code
 - AWS Security
 - Zero Trust Architecture
+- Risk Management Framework
+- DISA STIG Governance
 - AI Security Automation
 
 ---
@@ -86,7 +90,7 @@ I enjoy building enterprise-scale cybersecurity projects that demonstrate real-w
 
 ## ☁️ Cloud
 
-- Amazon Web Services (AWS)
+- Amazon Web Services
 - Microsoft Azure
 - Microsoft Entra ID
 - AWS IAM
@@ -125,6 +129,8 @@ I enjoy building enterprise-scale cybersecurity projects that demonstrate real-w
 - YARA
 - Sigma
 - MITRE ATT&CK
+- NIST RMF
+- DISA STIGs
 
 ## 💻 Programming
 
@@ -138,13 +144,14 @@ I enjoy building enterprise-scale cybersecurity projects that demonstrate real-w
 # Featured Projects
 
 | Project | Description |
-|----------|-------------|
+|---|---|
+| 🛡️ **[Microsoft Zero Trust, RMF & DISA STIG Architecture](https://github.com/jbanday808/microsoft-zero-trust-rmf)** | Executive-focused security architecture combining Zero Trust, NIST RMF, DISA STIG governance, risk reporting, incident response, and continuous monitoring. |
 | 🤖 **AI-Powered Threat Detection Platform** | AI-assisted Kubernetes threat detection, SOAR automation, MITRE ATT&CK mapping, and cloud security analytics. |
 | ☁️ **Enterprise Multi-Cloud CI/CD Platform** | GitHub Actions, Docker, Terraform, OIDC authentication, AWS CodePipeline, Infrastructure as Code, and automated deployments across AWS and Azure. |
 | 🤖 **GitHub AI Agent** | AI-powered GitHub workflow automation with governance, approvals, CI/CD, and security validation. |
-| 🧠 **AI Threat Hunt Agent (Microsoft Foundry)** | AI-assisted SOC analyst for automated threat hunting, investigation, and incident response. |
+| 🧠 **AI Threat Hunt Agent — Microsoft Foundry** | AI-assisted SOC analyst for automated threat hunting, investigation, and incident response. |
 | 🚀 **Enterprise OpenShift DevSecOps Platform** | OpenShift Pipelines, SAST, DAST, Trivy, GitOps, Kubernetes security, and Python automation. |
-| 🧠 **Foundry IQ Agent** | AI-powered security intelligence assistant built using Microsoft Foundry. |
+| 🧠 **Foundry IQ Agent** | AI-powered security intelligence assistant built with Microsoft Foundry. |
 | 🎯 **Enterprise Threat Hunting Platform** | MITRE ATT&CK, Sigma, YARA, detection engineering, threat intelligence, and SOC workflows. |
 | ☸️ **Enterprise Amazon EKS Security Platform** | Amazon EKS, Falco, Infrastructure as Code, Kubernetes security, and continuous monitoring. |
 | 🔐 **AWS Zero Trust Architecture** | IAM, RBAC, least privilege, identity federation, and Zero Trust cloud security architecture. |
@@ -154,29 +161,30 @@ I enjoy building enterprise-scale cybersecurity projects that demonstrate real-w
 # Project Repositories
 
 | Repository | Link |
-|------------|------|
-| AI-Powered Threat Detection Platform | https://github.com/jbanday808/ai-powered-threat-detection-platform |
-| Enterprise Multi-Cloud CI/CD Platform | https://github.com/jbanday808/multi-cloud-cicd |
-| GitHub AI Agent | https://github.com/jbanday808/github-ai-agent |
-| AI Threat Hunt Agent (Microsoft Foundry) | https://github.com/jbanday808/ai-threat-hunt-agent-foundry |
-| Enterprise OpenShift DevSecOps Platform | https://github.com/jbanday808/python-openshift-cicd |
-| Foundry IQ Agent | https://github.com/jbanday808/foundry-iq-agent |
-| Enterprise Threat Hunting Platform | https://github.com/jbanday808/Enterprise-Threat-Hunting |
-| Enterprise Amazon EKS Security Platform | https://github.com/jbanday808/enterprise-eks-security-platform |
-| AWS Zero Trust Architecture | https://github.com/jbanday808/aws-zero-trust-architecture |
+|---|---|
+| Microsoft Zero Trust, RMF & DISA STIG Architecture | [View Repository](https://github.com/jbanday808/microsoft-zero-trust-rmf) |
+| AI-Powered Threat Detection Platform | [View Repository](https://github.com/jbanday808/ai-powered-threat-detection-platform) |
+| Enterprise Multi-Cloud CI/CD Platform | [View Repository](https://github.com/jbanday808/multi-cloud-cicd) |
+| GitHub AI Agent | [View Repository](https://github.com/jbanday808/github-ai-agent) |
+| AI Threat Hunt Agent — Microsoft Foundry | [View Repository](https://github.com/jbanday808/ai-threat-hunt-agent-foundry) |
+| Enterprise OpenShift DevSecOps Platform | [View Repository](https://github.com/jbanday808/python-openshift-cicd) |
+| Foundry IQ Agent | [View Repository](https://github.com/jbanday808/foundry-iq-agent) |
+| Enterprise Threat Hunting Platform | [View Repository](https://github.com/jbanday808/Enterprise-Threat-Hunting) |
+| Enterprise Amazon EKS Security Platform | [View Repository](https://github.com/jbanday808/enterprise-eks-security-platform) |
+| AWS Zero Trust Architecture | [View Repository](https://github.com/jbanday808/aws-zero-trust-architecture) |
 
 ---
 
 # Currently Building
 
 - Microsoft Entra ID Identity Governance
-- Okta Identity & Access Management
+- Okta Identity and Access Management
 - AWS IAM
 - AWS IAM Identity Center
 - Enterprise ICAM Platform
-- Hybrid Active Directory & Microsoft Entra ID
+- Hybrid Active Directory and Microsoft Entra ID
 - Zero Trust Identity Architecture
-- Detection Engineering (Sigma, YARA, Suricata)
+- Detection Engineering with Sigma, YARA, and Suricata
 - AI Security Operations
 - Cloud Security Automation
 
@@ -184,10 +192,10 @@ I enjoy building enterprise-scale cybersecurity projects that demonstrate real-w
 
 # Certifications
 
-- Certified Ethical Hacker (CEH)
-- Certified Network Defense Architect (CNDA)
+- Certified Ethical Hacker
+- Certified Network Defense Architect
 - CompTIA Security+
-- ITIL v4
+- ITIL 4 Foundation
 
 ---
 
@@ -203,23 +211,21 @@ I'm interested in opportunities involving:
 - Platform Security
 - Kubernetes Security
 - Microsoft Entra ID
-- Identity & Access Management
+- Identity and Access Management
 - Cloud IAM
 - Security Automation
 - AI for Cybersecurity
+- Risk Management Framework
+- Zero Trust Architecture
+- DISA STIG Governance
 
 ---
 
 # Let's Connect
 
-- **LinkedIn:**  
-  https://www.linkedin.com/in/james-allen-morta-banday-62a391128/
-
-- **GitHub:**  
-  https://github.com/jbanday808
-
-- **Email:**  
-  jamesbanday1@gmail.com
+- **LinkedIn:** [James Banday](https://www.linkedin.com/in/james-allen-morta-banday-62a391128/)
+- **GitHub:** [jbanday808](https://github.com/jbanday808)
+- **Email:** [jamesbanday1@gmail.com](mailto:jamesbanday1@gmail.com)
 
 ---
 
