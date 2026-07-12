@@ -144,14 +144,14 @@ I enjoy building enterprise-scale cybersecurity projects that demonstrate practi
 # Featured Projects
 
 | Project | Description |
-|---|---|
-| 🛡️ **[Microsoft Zero Trust, RMF & DISA STIG Architecture](https://github.com/jbanday808/microsoft-zero-trust-rmf)** | Executive-focused security architecture combining Zero Trust, NIST RMF, DISA STIG governance, risk reporting, incident response, and continuous monitoring. |
+|----------|-------------|
+| 🛡️ **Microsoft Zero Trust, RMF & DISA STIG Architecture** | Executive-focused security architecture combining Zero Trust, NIST RMF, DISA STIG governance, risk reporting, incident response, and continuous monitoring. |
 | 🤖 **AI-Powered Threat Detection Platform** | AI-assisted Kubernetes threat detection, SOAR automation, MITRE ATT&CK mapping, and cloud security analytics. |
 | ☁️ **Enterprise Multi-Cloud CI/CD Platform** | GitHub Actions, Docker, Terraform, OIDC authentication, AWS CodePipeline, Infrastructure as Code, and automated deployments across AWS and Azure. |
 | 🤖 **GitHub AI Agent** | AI-powered GitHub workflow automation with governance, approvals, CI/CD, and security validation. |
-| 🧠 **AI Threat Hunt Agent — Microsoft Foundry** | AI-assisted SOC analyst for automated threat hunting, investigation, and incident response. |
+| 🧠 **AI Threat Hunt Agent (Microsoft Foundry)** | AI-assisted SOC analyst for automated threat hunting, investigation, and incident response. |
 | 🚀 **Enterprise OpenShift DevSecOps Platform** | OpenShift Pipelines, SAST, DAST, Trivy, GitOps, Kubernetes security, and Python automation. |
-| 🧠 **Foundry IQ Agent** | AI-powered security intelligence assistant built with Microsoft Foundry. |
+| 🧠 **Foundry IQ Agent** | AI-powered security intelligence assistant built using Microsoft Foundry. |
 | 🎯 **Enterprise Threat Hunting Platform** | MITRE ATT&CK, Sigma, YARA, detection engineering, threat intelligence, and SOC workflows. |
 | ☸️ **Enterprise Amazon EKS Security Platform** | Amazon EKS, Falco, Infrastructure as Code, Kubernetes security, and continuous monitoring. |
 | 🔐 **AWS Zero Trust Architecture** | IAM, RBAC, least privilege, identity federation, and Zero Trust cloud security architecture. |
@@ -161,17 +161,17 @@ I enjoy building enterprise-scale cybersecurity projects that demonstrate practi
 # Project Repositories
 
 | Repository | Link |
-|---|---|
-| Microsoft Zero Trust, RMF & DISA STIG Architecture | [View Repository](https://github.com/jbanday808/microsoft-zero-trust-rmf) |
-| AI-Powered Threat Detection Platform | [View Repository](https://github.com/jbanday808/ai-powered-threat-detection-platform) |
-| Enterprise Multi-Cloud CI/CD Platform | [View Repository](https://github.com/jbanday808/multi-cloud-cicd) |
-| GitHub AI Agent | [View Repository](https://github.com/jbanday808/github-ai-agent) |
-| AI Threat Hunt Agent — Microsoft Foundry | [View Repository](https://github.com/jbanday808/ai-threat-hunt-agent-foundry) |
-| Enterprise OpenShift DevSecOps Platform | [View Repository](https://github.com/jbanday808/python-openshift-cicd) |
-| Foundry IQ Agent | [View Repository](https://github.com/jbanday808/foundry-iq-agent) |
-| Enterprise Threat Hunting Platform | [View Repository](https://github.com/jbanday808/Enterprise-Threat-Hunting) |
-| Enterprise Amazon EKS Security Platform | [View Repository](https://github.com/jbanday808/enterprise-eks-security-platform) |
-| AWS Zero Trust Architecture | [View Repository](https://github.com/jbanday808/aws-zero-trust-architecture) |
+|------------|------|
+| Microsoft Zero Trust, RMF & DISA STIG Architecture | https://github.com/jbanday808/microsoft-zero-trust-rmf |
+| AI-Powered Threat Detection Platform | https://github.com/jbanday808/ai-powered-threat-detection-platform |
+| Enterprise Multi-Cloud CI/CD Platform | https://github.com/jbanday808/multi-cloud-cicd |
+| GitHub AI Agent | https://github.com/jbanday808/github-ai-agent |
+| AI Threat Hunt Agent (Microsoft Foundry) | https://github.com/jbanday808/ai-threat-hunt-agent-foundry |
+| Enterprise OpenShift DevSecOps Platform | https://github.com/jbanday808/python-openshift-cicd |
+| Foundry IQ Agent | https://github.com/jbanday808/foundry-iq-agent |
+| Enterprise Threat Hunting Platform | https://github.com/jbanday808/Enterprise-Threat-Hunting |
+| Enterprise Amazon EKS Security Platform | https://github.com/jbanday808/enterprise-eks-security-platform |
+| AWS Zero Trust Architecture | https://github.com/jbanday808/aws-zero-trust-architecture |
 
 ---
 
@@ -223,9 +223,14 @@ I'm interested in opportunities involving:
 
 # Let's Connect
 
-- **LinkedIn:** [James Banday](https://www.linkedin.com/in/james-allen-morta-banday-62a391128/)
-- **GitHub:** [jbanday808](https://github.com/jbanday808)
-- **Email:** [jamesbanday1@gmail.com](mailto:jamesbanday1@gmail.com)
+- **LinkedIn:**  
+  https://www.linkedin.com/in/james-allen-morta-banday-62a391128/
+
+- **GitHub:**  
+  https://github.com/jbanday808
+
+- **Email:**  
+  jamesbanday1@gmail.com
 
 ---
 
