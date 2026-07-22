@@ -59,7 +59,7 @@ The project includes an authorized RemcosRAT static-analysis case study, importe
 
 - 🛡️ Active Top Secret/SCI Clearance
 - 🏅 Top 1% on Hack The Box Academy
-- 🎯 655 Hack The Box targets compromised
+- 🎯 662 Hack The Box targets compromised
 - 📚 Completed 6 Hack The Box Academy learning paths
 - 🤖 Built 10+ enterprise cybersecurity and AI security projects
 - 🔍 Developed malware-analysis, threat-hunting, and detection-engineering case studies
