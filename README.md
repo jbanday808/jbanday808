@@ -379,4 +379,4 @@ My approach emphasizes:
 
 **James Banday**
 
-Threat Hunter | Cyber Intrusion Analyst | SOC Operations | Cloud Security | AI-Assisted Security Operations
+Threat Hunter | Senior Cyber Defense Analyst | SOC Operations | Cloud Security | AI-Assisted Security Operations
