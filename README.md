@@ -11,6 +11,7 @@
 ![AWS Cloud](https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft-Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Elastic Security](https://img.shields.io/badge/Elastic-Security-005571?style=for-the-badge&logo=elastic&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-EKS-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -53,6 +54,8 @@ My recent work includes building an **AI-assisted threat-hunting workflow** that
 
 The project includes an authorized RemcosRAT static-analysis case study, imported threat intelligence, behavioral watchlists, practical KQL hunting content, a custom YARA rule, and evidence-based investigation documentation.
 
+I also built a **RHEL 10 Elastic Security home lab** with Elastic Agent, Elastic Defend, Logstash, Elasticsearch, and Kibana. It demonstrates endpoint and authentication monitoring, Logstash performance dashboards, and practical ES|QL investigations using documented lab evidence.
+
 ---
 
 # 🏆 Achievements
@@ -91,6 +94,9 @@ The project includes an authorized RemcosRAT static-analysis case study, importe
 - Microsoft Sentinel
 - Microsoft Defender XDR
 - Splunk Enterprise
+- Elastic Security and Kibana
+- Elasticsearch and Logstash
+- ES|QL Analytics
 - YARA Detection Development
 - KQL Threat Hunting
 - Cloud Security
@@ -133,6 +139,11 @@ The project includes an authorized RemcosRAT static-analysis case study, importe
 - Microsoft Sentinel
 - Microsoft Defender XDR
 - Splunk Enterprise
+- Elastic Security
+- Elastic Agent and Elastic Defend
+- Elasticsearch
+- Kibana
+- Logstash
 - Trellix EDR
 - Cisco Firepower Management Center
 - Zeek
@@ -148,6 +159,7 @@ The project includes an authorized RemcosRAT static-analysis case study, importe
 - YARA
 - Sigma
 - Kusto Query Language
+- Elasticsearch Query Language (ES|QL)
 - STIX 2.1
 - MITRE ATT&CK
 - Indicators of Compromise
@@ -200,6 +212,7 @@ The project includes an authorized RemcosRAT static-analysis case study, importe
 - PowerShell
 - Bash
 - Kusto Query Language
+- Elasticsearch Query Language (ES|QL)
 - Git
 - GitHub
 - Linux
@@ -226,6 +239,7 @@ The project includes an authorized RemcosRAT static-analysis case study, importe
 
 | Project | Description |
 |---|---|
+| 🔎 **RHEL 10 Elastic Security Engineering Home Lab** | Two RHEL 10 virtual machines with Elastic Agent, Elastic Defend, and Logstash; Elastic Cloud and Kibana dashboards for process activity, authentication monitoring, and Logstash performance, supported by ES|QL queries and documented screenshots. |
 | 🛡️ **Microsoft Zero Trust, RMF & DISA STIG Architecture** | Executive-focused security architecture combining Zero Trust, NIST RMF, DISA STIG governance, risk reporting, incident response, and continuous monitoring. |
 | 🤖 **AI-Powered Threat Detection Platform** | AI-assisted Kubernetes threat detection, SOAR automation, MITRE ATT&CK mapping, cloud security analytics, and continuous monitoring. |
 | ☁️ **Enterprise Multi-Cloud CI/CD Platform** | GitHub Actions, Docker, Terraform, OpenID Connect authentication, AWS CodePipeline, Infrastructure as Code, and automated deployments across AWS and Azure. |
@@ -273,10 +287,24 @@ The project separates static-analysis findings, imported intelligence, behaviora
 
 ---
 
+# Featured Project: RHEL 10 Elastic Security Engineering Home Lab
+
+This hands-on lab uses two RHEL 10 virtual machines to demonstrate endpoint and server monitoring with Elastic Agent, Elastic Defend, and Logstash, with investigation and visualization in Elastic Cloud and Kibana.
+
+- Monitors endpoint process activity, authentication events, and Logstash health and performance
+- Includes three Kibana monitoring dashboards and reusable ES|QL queries
+- Documents the lab architecture, deployment steps, and 27 figures (Figures 0–26)
+- Includes a local-only example Logstash pipeline; monitoring and security data are collected separately through Elastic Agent
+
+[View the RHEL 10 Elastic Security project](https://github.com/jbanday808/elastic-security-engineering-rhel10)
+
+---
+
 # Project Repositories
 
 | Repository | Link |
 |---|---|
+| RHEL 10 Elastic Security Engineering Home Lab | https://github.com/jbanday808/elastic-security-engineering-rhel10 |
 | Microsoft Zero Trust, RMF & DISA STIG Architecture | https://github.com/jbanday808/microsoft-zero-trust-rmf |
 | AI-Powered Threat Detection Platform | https://github.com/jbanday808/ai-powered-threat-detection-platform |
 | Enterprise Multi-Cloud CI/CD Platform | https://github.com/jbanday808/multi-cloud-cicd |
