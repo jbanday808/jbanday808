@@ -29,7 +29,7 @@
 
 # About Me
 
-I'm a cybersecurity professional with **8+ years of experience** supporting Department of Defense and federal cybersecurity operations.
+I'm a cybersecurity professional with **9+ years of experience** supporting Department of Defense and federal cybersecurity operations.
 
 My background includes:
 
