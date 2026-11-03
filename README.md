@@ -29,32 +29,27 @@
 
 # About Me
 
-I'm a cybersecurity professional with **9+ years of experience** supporting Department of Defense and federal cybersecurity operations.
+### I'm a cybersecurity professional with **9+ years of experience** supporting Department of Defense and federal cybersecurity operations.
 
-My background includes:
+### My background includes:
 
-- Security Operations Center operations
-- Threat hunting
-- Incident response
-- Malware analysis
-- Detection engineering
-- Threat intelligence
-- Cloud security
-- Kubernetes security
-- DevSecOps
-- Microsoft Entra ID
-- Identity and Access Management
-- Zero Trust architecture
-- Risk Management Framework
-- DISA STIG governance
+### 🛡️ Security Operations Center operations · Threat hunting · Incident response
 
-I enjoy building enterprise-scale cybersecurity projects that demonstrate practical security operations, malware analysis, cloud security engineering, Infrastructure as Code, DevSecOps, AI-assisted security operations, Kubernetes security, risk governance, and Zero Trust architecture.
+### 🔍 Malware analysis · Detection engineering · Threat intelligence
 
-My recent work includes building an **AI-assisted threat-hunting workflow** that combines Microsoft Foundry, Microsoft Sentinel, Microsoft Defender XDR, Kusto Query Language, STIX 2.1, YARA, malware-analysis knowledge, and human-reviewed investigation guidance.
+### ☁️ Cloud security · Kubernetes security · DevSecOps
 
-The project includes an authorized RemcosRAT static-analysis case study, imported threat intelligence, behavioral watchlists, practical KQL hunting content, a custom YARA rule, and evidence-based investigation documentation.
+### 🔐 Microsoft Entra ID · Identity and Access Management · Zero Trust architecture
 
-I also built a **RHEL 10 Elastic Security home lab** with Elastic Agent, Elastic Defend, Logstash, Elasticsearch, and Kibana. It demonstrates endpoint and authentication monitoring, Logstash performance dashboards, and practical ES|QL investigations using documented lab evidence.
+### 📋 Risk Management Framework · DISA STIG governance
+
+### I enjoy building enterprise-scale cybersecurity projects that demonstrate practical security operations, malware analysis, cloud security engineering, Infrastructure as Code, DevSecOps, AI-assisted security operations, Kubernetes security, risk governance, and Zero Trust architecture.
+
+### My recent work includes building an **AI-assisted threat-hunting workflow** that combines Microsoft Foundry, Microsoft Sentinel, Microsoft Defender XDR, Kusto Query Language, STIX 2.1, YARA, malware-analysis knowledge, and human-reviewed investigation guidance.
+
+### The project includes an authorized RemcosRAT static-analysis case study, imported threat intelligence, behavioral watchlists, practical KQL hunting content, a custom YARA rule, and evidence-based investigation documentation.
+
+### I also built a **RHEL 10 Elastic Security home lab** with Elastic Agent, Elastic Defend, Logstash, Elasticsearch, and Kibana. It demonstrates endpoint and authentication monitoring, Logstash performance dashboards, and practical ES|QL investigations using documented lab evidence.
 
 ---
 
