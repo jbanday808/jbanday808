@@ -29,39 +29,39 @@
 
 # About Me
 
-### I'm a cybersecurity professional with **9+ years of experience** supporting Department of Defense and federal cybersecurity operations.
+#### I'm a cybersecurity professional with **9+ years of experience** supporting Department of Defense and federal cybersecurity operations.
 
-### My background includes:
+#### My background includes:
 
-### 🛡️ Security Operations Center operations · Threat hunting · Incident response
+#### 🛡️ Security Operations Center operations · Threat hunting · Incident response
 
-### 🔍 Malware analysis · Detection engineering · Threat intelligence
+#### 🔍 Malware analysis · Detection engineering · Threat intelligence
 
-### ☁️ Cloud security · Kubernetes security · DevSecOps
+#### ☁️ Cloud security · Kubernetes security · DevSecOps
 
-### 🔐 Microsoft Entra ID · Identity and Access Management · Zero Trust architecture
+#### 🔐 Microsoft Entra ID · Identity and Access Management · Zero Trust architecture
 
-### 📋 Risk Management Framework · DISA STIG governance
+#### 📋 Risk Management Framework · DISA STIG governance
 
-### I enjoy building enterprise-scale cybersecurity projects that demonstrate practical security operations, malware analysis, cloud security engineering, Infrastructure as Code, DevSecOps, AI-assisted security operations, Kubernetes security, risk governance, and Zero Trust architecture.
+#### I enjoy building enterprise-scale cybersecurity projects that demonstrate practical security operations, malware analysis, cloud security engineering, Infrastructure as Code, DevSecOps, AI-assisted security operations, Kubernetes security, risk governance, and Zero Trust architecture.
 
-### My recent work includes building an **AI-assisted threat-hunting workflow** that combines Microsoft Foundry, Microsoft Sentinel, Microsoft Defender XDR, Kusto Query Language, STIX 2.1, YARA, malware-analysis knowledge, and human-reviewed investigation guidance.
+#### My recent work includes building an **AI-assisted threat-hunting workflow** that combines Microsoft Foundry, Microsoft Sentinel, Microsoft Defender XDR, Kusto Query Language, STIX 2.1, YARA, malware-analysis knowledge, and human-reviewed investigation guidance.
 
-### The project includes an authorized RemcosRAT static-analysis case study, imported threat intelligence, behavioral watchlists, practical KQL hunting content, a custom YARA rule, and evidence-based investigation documentation.
+#### The project includes an authorized RemcosRAT static-analysis case study, imported threat intelligence, behavioral watchlists, practical KQL hunting content, a custom YARA rule, and evidence-based investigation documentation.
 
-### I also built a **RHEL 10 Elastic Security home lab** with Elastic Agent, Elastic Defend, Logstash, Elasticsearch, and Kibana. It demonstrates endpoint and authentication monitoring, Logstash performance dashboards, and practical ES|QL investigations using documented lab evidence.
+#### I also built a **RHEL 10 Elastic Security home lab** with Elastic Agent, Elastic Defend, Logstash, Elasticsearch, and Kibana. It demonstrates endpoint and authentication monitoring, Logstash performance dashboards, and practical ES|QL investigations using documented lab evidence.
 
 ---
 
 # 🏆 Achievements
 
-- 🛡️ Active Top Secret/SCI Clearance
-- 🏅 Top 1% on Hack The Box Academy
-- 🎯 662 Hack The Box targets compromised
-- 📚 Completed 6 Hack The Box Academy learning paths
-- 🤖 Built 10+ enterprise cybersecurity and AI security projects
-- 🔍 Developed malware-analysis, threat-hunting, and detection-engineering case studies
-- ☁️ Built security platforms across AWS, Microsoft Azure, Kubernetes, and OpenShift
+#### 🛡️ Active Top Secret/SCI Clearance
+#### 🏅 Top 1% on Hack The Box Academy
+#### 🎯 662 Hack The Box targets compromised
+#### 📚 Completed 6 Hack The Box Academy learning paths
+#### 🤖 Built 10+ enterprise cybersecurity and AI security projects
+#### 🔍 Developed malware-analysis, threat-hunting, and detection-engineering case studies
+#### ☁️ Built security platforms across AWS, Microsoft Azure, Kubernetes, and OpenShift
 
 ---
 
