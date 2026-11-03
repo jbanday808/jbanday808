@@ -239,6 +239,7 @@ I also built a **RHEL 10 Elastic Security home lab** with Elastic Agent, Elastic
 
 | Project | Description |
 |---|---|
+| 🔍 **[RHEL 10.2 Splunk Threat Hunting Lab (WIP)](https://github.com/jbanday808/rhel-10v2-splunk-threat-hunting)** | Three-VM security monitoring lab using Splunk Enterprise, RHEL 10.2, Windows 11, Sysmon, Universal Forwarder, and Red Hat IdM; includes six index configurations, 13 SPL searches, and 52 documented deployment steps. Deployment and validation are ongoing. |
 | 🔎 **RHEL 10 Elastic Security Engineering Home Lab** | Two RHEL 10 virtual machines with Elastic Agent, Elastic Defend, and Logstash; Elastic Cloud and Kibana dashboards for process activity, authentication monitoring, and Logstash performance, supported by ES|QL queries and documented screenshots. |
 | 🛡️ **Microsoft Zero Trust, RMF & DISA STIG Architecture** | Executive-focused security architecture combining Zero Trust, NIST RMF, DISA STIG governance, risk reporting, incident response, and continuous monitoring. |
 | 🤖 **AI-Powered Threat Detection Platform** | AI-assisted Kubernetes threat detection, SOAR automation, MITRE ATT&CK mapping, cloud security analytics, and continuous monitoring. |
@@ -300,10 +301,25 @@ This hands-on lab uses two RHEL 10 virtual machines to demonstrate endpoint and 
 
 ---
 
+# Featured Project: RHEL 10.2 Splunk Threat Hunting Lab (Work in Progress)
+
+I'm developing a three-VM Splunk Enterprise lab on VMware Workstation Pro to practice SIEM engineering, Windows and Linux security monitoring, threat hunting, and secure identity integration.
+
+- **RHEL-SPLUNK01:** RHEL 10.2 Splunk Enterprise server for indexing, searches, and dashboards
+- **WINHUNT01:** Windows 11 endpoint with Sysmon, Windows event logs, PowerShell logging, and Splunk Universal Forwarder
+- **RHEL-IDM01:** Red Hat IdM directory server for DNS, verified LDAPS, and role-based access testing
+- **Repository content:** Six Splunk index configurations, 13 SPL hunting and validation searches, 52 deployment procedures, seven optional exercises, and 22 documented screenshots
+- **Project status:** Work in progress; implementation, threat-hunting tests, and verification results will be added as they are completed
+
+[View the RHEL 10.2 Splunk Threat Hunting project](https://github.com/jbanday808/rhel-10v2-splunk-threat-hunting)
+
+---
+
 # Project Repositories
 
 | Repository | Link |
 |---|---|
+| RHEL 10.2 Splunk Threat Hunting Lab (WIP) | https://github.com/jbanday808/rhel-10v2-splunk-threat-hunting |
 | RHEL 10 Elastic Security Engineering Home Lab | https://github.com/jbanday808/elastic-security-engineering-rhel10 |
 | Microsoft Zero Trust, RMF & DISA STIG Architecture | https://github.com/jbanday808/microsoft-zero-trust-rmf |
 | AI-Powered Threat Detection Platform | https://github.com/jbanday808/ai-powered-threat-detection-platform |
@@ -319,6 +335,7 @@ This hands-on lab uses two RHEL 10 virtual machines to demonstrate endpoint and 
 
 # Currently Building
 
+- **[RHEL 10.2 Splunk Threat Hunting Lab](https://github.com/jbanday808/rhel-10v2-splunk-threat-hunting)** — implementation and validation in progress; additional searches, configurations, and evidence will be published as completed
 - Microsoft Entra ID Identity Governance
 - Okta Identity and Access Management
 - AWS Identity and Access Management
