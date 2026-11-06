@@ -43,7 +43,7 @@ My background includes:
 
 I enjoy building cybersecurity projects that connect security operations, cloud engineering, automation, and risk management. I focus on documenting the architecture, investigation process, evidence, and lessons learned so the work can be reviewed and repeated.
 
-My AI-assisted threat-hunting workflow combines Microsoft Foundry, Microsoft Sentinel, Microsoft Defender XDR, Kusto Query Language, STIX 2.1, YARA, and human-reviewed investigation guidance. The project includes an authorized RemcosRAT static-analysis case study, imported threat intelligence, behavioral watchlists, KQL hunting queries, a custom YARA rule, and evidence-based documentation.
+My AI-assisted threat-hunting workflow combines Microsoft Foundry, Microsoft Sentinel, Microsoft Defender XDR, Kusto Query Language, STIX 2.1, YARA, and human-reviewed investigation guidance. The project includes an authorized [RemcosRAT static-analysis case study](https://github.com/jbanday808/ai-powered-threat-detection-platform/tree/main/case-studies/remcos), imported threat intelligence, behavioral watchlists, KQL hunting queries, a custom YARA rule, and evidence-based documentation.
 
 I also built a RHEL 10 Elastic Security home lab with Elastic Agent, Elastic Defend, Logstash, Elasticsearch, and Kibana. The lab covers endpoint process activity, authentication monitoring, Logstash performance dashboards, and ES|QL investigations supported by documented evidence.
 
