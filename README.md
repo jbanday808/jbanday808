@@ -30,29 +30,26 @@
 
 # About Me
 
-#### I'm a cybersecurity professional with **9+ years of experience** supporting Department of Defense and federal cybersecurity operations.
+I'm a cybersecurity professional with 9+ years of experience supporting Department of Defense and federal cybersecurity operations. My experience includes monitoring security events, investigating suspicious activity, supporting incident response, and documenting findings for technical teams and leadership.
 
-#### My background includes:
+My background includes:
 
-#### 🛡️ Security Operations Center operations · Threat hunting · Incident response
+- 🛡️ Security Operations Center operations, SIEM monitoring, alert triage, incident response, and security reporting
+- 🔍 Threat hunting, static malware analysis, detection engineering, threat intelligence, and indicator analysis
+- 🌐 Network traffic and protocol analysis, including lab exercises with Zeek, Suricata, Wireshark, and TShark
+- ☁️ AWS and Microsoft Azure security, Kubernetes security, DevSecOps, and Infrastructure as Code
+- 🔐 Microsoft Entra ID, identity and access management, role-based access control, and Zero Trust architecture
+- 📋 NIST Risk Management Framework, DISA STIG governance, vulnerability management, and continuous monitoring
 
-#### 🔍 Malware analysis · Detection engineering · Threat intelligence
+I enjoy building cybersecurity projects that connect security operations, cloud engineering, automation, and risk management. I focus on documenting the architecture, investigation process, evidence, and lessons learned so the work can be reviewed and repeated.
 
-#### ☁️ Cloud security · Kubernetes security · DevSecOps
+My AI-assisted threat-hunting workflow combines Microsoft Foundry, Microsoft Sentinel, Microsoft Defender XDR, Kusto Query Language, STIX 2.1, YARA, and human-reviewed investigation guidance. The project includes an authorized RemcosRAT static-analysis case study, imported threat intelligence, behavioral watchlists, KQL hunting queries, a custom YARA rule, and evidence-based documentation.
 
-#### 🔐 Microsoft Entra ID · Identity and Access Management · Zero Trust architecture
+I also built a RHEL 10 Elastic Security home lab with Elastic Agent, Elastic Defend, Logstash, Elasticsearch, and Kibana. The lab covers endpoint process activity, authentication monitoring, Logstash performance dashboards, and ES|QL investigations supported by documented evidence.
 
-#### 📋 Risk Management Framework · DISA STIG governance
+I'm developing a RHEL 10.2 Splunk threat-hunting lab using a three-VM design with Windows and Linux monitoring, Sysmon, Splunk Universal Forwarder, and Red Hat Identity Management. The repository includes Splunk searches, MITRE ATT&CK-aligned hunting examples, and a passive network defense guide with synthetic traffic exercises, Suricata alert tuning, YARA and Sigma rules, and CMMC Level 2 evidence planning. Deployment, event collection, secure LDAP validation, and the optional network sensor remain in progress.
 
-#### I enjoy building enterprise-scale cybersecurity projects that demonstrate practical security operations, malware analysis, cloud security engineering, Infrastructure as Code, DevSecOps, AI-assisted security operations, Kubernetes security, risk governance, and Zero Trust architecture.
-
-#### My recent work includes building an **AI-assisted threat-hunting workflow** that combines Microsoft Foundry, Microsoft Sentinel, Microsoft Defender XDR, Kusto Query Language, STIX 2.1, YARA, malware-analysis knowledge, and human-reviewed investigation guidance.
-
-#### The project includes an authorized RemcosRAT static-analysis case study, imported threat intelligence, behavioral watchlists, practical KQL hunting content, a custom YARA rule, and evidence-based investigation documentation.
-
-#### I also built a **RHEL 10 Elastic Security home lab** with Elastic Agent, Elastic Defend, Logstash, Elasticsearch, and Kibana. It demonstrates endpoint and authentication monitoring, Logstash performance dashboards, and practical ES|QL investigations using documented lab evidence.
-
-#### I’m developing a **RHEL 10.2 Splunk threat-hunting lab** with Windows and Linux monitoring, passive network analysis, and detection-engineering exercises.
+My goal is to combine practical investigation, clear communication, and continuous learning to improve security monitoring and support effective incident response.
 
 ---
 
