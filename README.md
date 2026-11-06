@@ -426,4 +426,4 @@ My approach emphasizes:
 
 **James Banday**
 
-Senior Cybersecurity Analyst | Senior SOC Analyst | Threat Hunter | SOC Operations | Cloud Security | AI-Assisted Security Operations
+Threat Hunting | Detection Engineering | Incident Response | SIEM Engineering | Network Defense | Zero Trust Architecture
