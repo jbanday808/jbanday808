@@ -22,7 +22,7 @@
 
 </p>
 
-## Senior SOC Analyst | Threat Hunter | Cyber Intrusion Analyst | SOC Operations | Cloud Security | AI-Assisted Security Operations
+## Senior Cybersecurity Analyst | Senior SOC Analyst | Threat Hunter | Cyber Intrusion Analyst | SOC Operations | Cloud Security | AI-Assisted Security Operations
 
 **Active Top Secret/SCI Clearance**
 
