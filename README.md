@@ -426,4 +426,4 @@ My approach emphasizes:
 
 **James Banday**
 
-Elastic Security Engineering | Detection Engineering | Threat Hunting | SOC Operations | Cloud Security
+Senior Cybersecurity Analyst | Senior SOC Analyst | Threat Hunter | SOC Operations | Cloud Security | AI-Assisted Security Operations
