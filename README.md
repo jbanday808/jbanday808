@@ -47,7 +47,7 @@ My AI-assisted threat-hunting workflow combines Microsoft Foundry, Microsoft Sen
 
 I also built a RHEL 10 Elastic Security home lab with Elastic Agent, Elastic Defend, Logstash, Elasticsearch, and Kibana. The lab covers endpoint process activity, authentication monitoring, Logstash performance dashboards, and ES|QL investigations supported by documented evidence.
 
-I'm developing a RHEL 10.2 Splunk threat-hunting lab using a three-VM design with Windows and Linux monitoring, Sysmon, Splunk Universal Forwarder, and Red Hat Identity Management. The repository includes Splunk searches, MITRE ATT&CK-aligned hunting examples, and a passive network defense guide with synthetic traffic exercises, Suricata alert tuning, YARA and Sigma rules, and CMMC Level 2 evidence planning. Deployment, event collection, secure LDAP validation, and the optional network sensor remain in progress.
+I'm developing a RHEL 10.2 Splunk threat-hunting lab using a three-VM design with Windows and Linux monitoring, Sysmon, Splunk Universal Forwarder, and Red Hat Identity Management. The repository includes SPL searches, MITRE ATT&CK hypotheses and coverage mapping, optional Kali and Arkime guides, synthetic traffic exercises, and YARA, Sigma, and Suricata examples. [TraceVector](https://github.com/jbanday808/rhel-10v2-splunk-threat-hunting/blob/main/docs/network-defense/INTERACTIVE_LAB.md) provides a private interactive reference for the architecture, analysis tools, traffic paths, deployment phases, and validation checklist. Deployment, event collection, secure LDAP validation, and the optional network sensor remain in progress.
 
 My goal is to combine practical investigation, clear communication, and continuous learning to improve security monitoring and support effective incident response.
 
@@ -237,7 +237,7 @@ My goal is to combine practical investigation, clear communication, and continuo
 
 | Project | Description |
 |---|---|
-| 🔍 **[RHEL 10.2 Splunk Threat Hunting Lab (WIP)](https://github.com/jbanday808/rhel-10v2-splunk-threat-hunting)** | Three-VM monitoring lab with Splunk, RHEL 10.2, Windows 11, Sysmon, and Red Hat IdM. Includes SPL hunts, MITRE ATT&CK mapping, and an optional passive network defense guide using Zeek, Wireshark, Suricata, YARA, and Sigma. Deployment and validation are ongoing. |
+| 🔍 **[RHEL 10.2 Splunk Threat Hunting Lab / TraceVector (WIP)](https://github.com/jbanday808/rhel-10v2-splunk-threat-hunting)** | Three-VM monitoring lab with Splunk Enterprise, RHEL 10.2, Windows 11, Sysmon, and Red Hat IdM. Includes the private TraceVector reference interface, ATT&CK hunting documentation, optional Kali and Arkime guides, and proposed security-operations and AI risk governance workstreams. Deployment and live validation are ongoing. |
 | 🔎 **RHEL 10 Elastic Security Engineering Home Lab** | Two RHEL 10 virtual machines with Elastic Agent, Elastic Defend, and Logstash; Elastic Cloud and Kibana dashboards for process activity, authentication monitoring, and Logstash performance, supported by ES\|QL queries and documented screenshots. |
 | 🛡️ **Microsoft Zero Trust, RMF & DISA STIG Architecture** | Executive-focused security architecture combining Zero Trust, NIST RMF, DISA STIG governance, risk reporting, incident response, and continuous monitoring. |
 | 🤖 **AI-Powered Threat Detection Platform** | AI-assisted Kubernetes threat detection, SOAR automation, MITRE ATT&CK mapping, cloud security analytics, and continuous monitoring. |
@@ -306,14 +306,24 @@ I'm developing a three-VM Splunk Enterprise lab on VMware Workstation Pro to pra
 - **RHEL-SPLUNK01** — RHEL 10.2 Splunk Enterprise server for indexing, searches, and dashboards
 - **WINHUNT01** — Windows 11 endpoint with Sysmon, Windows event logs, PowerShell logging, and Splunk Universal Forwarder
 - **RHEL-IDM01** — Red Hat IdM directory server for DNS, secure LDAP, and role-based access testing
-- **Splunk content** — Six index configurations, 13 initial SPL hunting and validation searches, and MITRE ATT&CK-aligned hunting examples
-- **Deployment documentation** — 52 deployment steps, seven optional appendices, and 22 screenshots
-- **Passive network defense** — A 30-step guide for Zeek, Wireshark/TShark, tcpdump, Suricata, YARA, and Sigma, with a worked HTTP investigation and CMMC Level 2 evidence planning
-- **Security guidance** — A 26-step RHEL 10 STIG and SCAP assessment guide, Zero Trust and RMF documentation, and an IAVM vulnerability-management workstream
+- **Splunk Enterprise** — SIEM indexing, SPL searches, dashboards, and investigation references using the six existing lab indexes
+- **MITRE ATT&CK** — A framework connecting adversary behavior to hunt hypotheses, required telemetry, investigation pivots, and detection-coverage gaps; candidate and context-only mappings are not verified detections
+- **TraceVector** — A private interactive reference with the existing three-VM architecture, six optional analysis tools, traffic explorer, deployment phases, browser-local validation checklist, and five reference screenshots; hosted access requires the owner's ChatGPT sign-in
+- **Deployment documentation** — 52 deployment steps, optional appendices, troubleshooting procedures, configuration examples, and screenshot references
+- **Kali analysis workstation** — Optional Wireshark/TShark, Zeek, Suricata, Arkime, YARA, and Sigma setup and offline exercises; the guide does not claim a validated Kali deployment
+- **Arkime** — Optional RHEL sensor installation, session and packet investigation, baseline analysis, and controlled local capture procedures; Arkime-to-Splunk ingestion is not configured
+- **Passive network defense** — A worked synthetic HTTP investigation, Suricata tuning, YARA and Sigma examples, and CMMC Level 2 evidence planning
+- **Security operations** — Proposed incident and vulnerability workflows, hunt plans, stakeholder briefings, reports, and synthetic AI-assisted forensic review with human review
+- **AI risk governance** — A proposed read-only, human-reviewed Splunk alert summarizer mapped to NIST AI RMF and SP 800-37; no AI model is deployed and no Authorization to Operate is granted
+- **Security guidance** — RHEL 10, Windows 11, and Windows Firewall STIG assessment guides, Zero Trust and RMF documentation, and an IAVM vulnerability-management workstream
 
 The repository includes synthetic DNS and HTTP exercises validated on a separate Linux host. Splunk event collection, Windows forwarding, secure LDAP authentication, and the optional network sensor remain in progress.
 
-[View the Splunk threat-hunting project](https://github.com/jbanday808/rhel-10v2-splunk-threat-hunting) · [Explore the passive network defense guide](https://github.com/jbanday808/rhel-10v2-splunk-threat-hunting/blob/main/docs/network-defense/IMPLEMENTATION_GUIDE.md) · [Review the synthetic HTTP investigation](https://github.com/jbanday808/rhel-10v2-splunk-threat-hunting/blob/main/docs/network-defense/OFFLINE_HTTP_WALKTHROUGH.md)
+[View the Splunk threat-hunting project](https://github.com/jbanday808/rhel-10v2-splunk-threat-hunting) · [TraceVector guide and screenshots](https://github.com/jbanday808/rhel-10v2-splunk-threat-hunting/blob/main/docs/network-defense/INTERACTIVE_LAB.md) · [MITRE ATT&CK hunting](https://github.com/jbanday808/rhel-10v2-splunk-threat-hunting/blob/main/docs/mitre-attack/README.md)
+
+[Kali workstation setup](https://github.com/jbanday808/rhel-10v2-splunk-threat-hunting/blob/main/docs/network-defense/KALI_DEPLOYMENT.md) · [Arkime installation and investigation](https://github.com/jbanday808/rhel-10v2-splunk-threat-hunting/blob/main/docs/arkime/IMPLEMENTATION_GUIDE.md) · [Synthetic HTTP investigation](https://github.com/jbanday808/rhel-10v2-splunk-threat-hunting/blob/main/docs/network-defense/OFFLINE_HTTP_WALKTHROUGH.md)
+
+[Security-operations workflows](https://github.com/jbanday808/rhel-10v2-splunk-threat-hunting/blob/main/docs/security-operations/README.md) · [Proposed AI RMF workstream](https://github.com/jbanday808/rhel-10v2-splunk-threat-hunting/blob/main/docs/ai-rmf/README.md)
 
 ---
 
@@ -337,7 +347,7 @@ The repository includes synthetic DNS and HTTP exercises validated on a separate
 
 # Currently Building
 
-- **[RHEL 10.2 Splunk Threat Hunting Lab](https://github.com/jbanday808/rhel-10v2-splunk-threat-hunting)** — continuing deployment and validation, including passive network analysis, detection tuning, and documentation
+- **[RHEL 10.2 Splunk Threat Hunting Lab / TraceVector](https://github.com/jbanday808/rhel-10v2-splunk-threat-hunting)** — continuing deployment and validation, optional Kali and Arkime analysis, ATT&CK hunting documentation, and the interactive reference interface
 - Microsoft Entra ID Identity Governance
 - Okta Identity and Access Management
 - AWS Identity and Access Management
