@@ -43,11 +43,13 @@ My background includes:
 
 I enjoy building cybersecurity projects that connect security operations, cloud engineering, automation, and risk management. I focus on documenting the architecture, investigation process, evidence, and lessons learned so the work can be reviewed and repeated.
 
-My AI-assisted threat-hunting workflow combines Microsoft Foundry, Microsoft Sentinel, Microsoft Defender XDR, Kusto Query Language, STIX 2.1, YARA, and human-reviewed investigation guidance. The project includes an authorized [RemcosRAT static-analysis case study](https://github.com/jbanday808/ai-powered-threat-detection-platform/tree/main/case-studies/remcos), imported threat intelligence, behavioral watchlists, KQL hunting queries, a custom YARA rule, and evidence-based documentation.
+My AI-assisted threat-hunting workflow combines Microsoft Foundry, Microsoft Sentinel, Microsoft Defender XDR, Kusto Query Language, STIX 2.1, YARA, and human-reviewed investigation guidance. The project includes a documented [RemcosRAT VBS/PowerShell analysis workflow](https://github.com/jbanday808/ai-threat-hunt-agent-foundry/blob/main/agent-knowledge/malware/remcosrat-vbs-loader.md), imported threat intelligence, behavioral watchlists, KQL hunting queries, a custom YARA rule, and evidence-based documentation.
+
+My malware-analysis portfolio also includes documented, isolated-lab investigations of RemcosRAT, Agent Tesla, GootLoader, Lumma Stealer, and Turla Neuron / DarkNeuron. The work combines static and dynamic analysis, reverse engineering, network evidence, detection content, ATT&CK mapping, and incident reporting. I distinguish observed behavior from inferred capabilities and unverified investigation leads.
 
 I also built a RHEL 10 Elastic Security home lab with Elastic Agent, Elastic Defend, Logstash, Elasticsearch, and Kibana. The lab covers endpoint process activity, authentication monitoring, Logstash performance dashboards, and ES|QL investigations supported by documented evidence.
 
-I'm developing a RHEL 10.2 Splunk threat-hunting lab using a three-VM design with Windows and Linux monitoring, Sysmon, Splunk Universal Forwarder, and Red Hat Identity Management. The repository includes SPL searches, MITRE ATT&CK hypotheses and coverage mapping, optional Kali and Arkime guides, synthetic traffic exercises, and YARA, Sigma, and Suricata examples. [TraceVector](https://github.com/jbanday808/rhel-10v2-splunk-threat-hunting/blob/main/docs/network-defense/INTERACTIVE_LAB.md) provides a private interactive reference for the architecture, analysis tools, traffic paths, deployment phases, and validation checklist. Deployment, event collection, secure LDAP validation, and the optional network sensor remain in progress.
+I'm developing a RHEL 10.2 Splunk threat-hunting lab using a three-VM design with Windows and Linux monitoring, Sysmon, Splunk Universal Forwarder, and Red Hat Identity Management. The repository includes SPL searches, MITRE ATT&CK hypotheses and coverage mapping, optional Kali and Arkime guides, synthetic traffic exercises, and YARA, Sigma, and Suricata examples. I built and privately published [TraceVector](https://tracevector-lab.jamesbanday.chatgpt.site), a threat-hunting workspace with ten synthetic SPL investigations and 30 guided steps. It includes evidence and documentation tracking, STIG guidance, detection drafts, progress tracking, a review queue, and browser-local backups. Deployment, event collection, secure LDAP validation, and the optional network sensor remain in progress.
 
 My goal is to combine practical investigation, clear communication, and continuous learning to improve security monitoring and support effective incident response.
 
@@ -60,7 +62,8 @@ My goal is to combine practical investigation, clear communication, and continuo
 #### 🎯 662 Hack The Box targets compromised
 #### 📚 Completed 6 Hack The Box Academy learning paths
 #### 🤖 Built 10+ enterprise cybersecurity and AI security projects
-#### 🔍 Developed malware-analysis, threat-hunting, and detection-engineering case studies
+#### 🔍 Documented malware investigations across five malware families, with evidence, detection content, and incident reports
+#### 🧪 Built and privately published TraceVector with 10 synthetic SPL investigations and 30 guided steps
 #### ☁️ Built security platforms across AWS, Microsoft Azure, Kubernetes, and OpenShift
 
 ---
@@ -148,6 +151,9 @@ My goal is to combine practical investigation, clear communication, and continuo
 - Falco
 - Trivy
 - Process Monitor
+- IDA Pro
+- dnSpy
+- CyberChef
 - VirusTotal
 - MalwareBazaar
 
@@ -237,10 +243,10 @@ My goal is to combine practical investigation, clear communication, and continuo
 
 | Project | Description |
 |---|---|
-| 🔍 **[RHEL 10.2 Splunk Threat Hunting Lab / TraceVector (WIP)](https://github.com/jbanday808/rhel-10v2-splunk-threat-hunting)** | Three-VM monitoring lab with Splunk Enterprise, RHEL 10.2, Windows 11, Sysmon, and Red Hat IdM. Includes the private TraceVector reference interface, ATT&CK hunting documentation, optional Kali and Arkime guides, and proposed security-operations and AI risk governance workstreams. Deployment and live validation are ongoing. |
+| 🔍 **[RHEL 10.2 Splunk Threat Hunting Lab / TraceVector (WIP)](https://github.com/jbanday808/rhel-10v2-splunk-threat-hunting)** | Three-VM monitoring lab with Splunk Enterprise, RHEL 10.2, Windows 11, Sysmon, and Red Hat IdM. Includes the published private TraceVector workspace with ten synthetic SPL investigations, evidence tracking, detection drafts, and a review queue, plus ATT&CK hunting documentation and optional Kali and Arkime guides. Core lab deployment and live validation are ongoing. |
 | 🔎 **RHEL 10 Elastic Security Engineering Home Lab** | Two RHEL 10 virtual machines with Elastic Agent, Elastic Defend, and Logstash; Elastic Cloud and Kibana dashboards for process activity, authentication monitoring, and Logstash performance, supported by ES\|QL queries and documented screenshots. |
 | 🛡️ **Microsoft Zero Trust, RMF & DISA STIG Architecture** | Executive-focused security architecture combining Zero Trust, NIST RMF, DISA STIG governance, risk reporting, incident response, and continuous monitoring. |
-| 🤖 **AI-Powered Threat Detection Platform** | AI-assisted Kubernetes threat detection, SOAR automation, MITRE ATT&CK mapping, cloud security analytics, and continuous monitoring. |
+| 🤖 **[AI-Powered Threat Detection Platform](https://github.com/jbanday808/ai-powered-threat-detection-platform)** | Malware-analysis and threat-detection portfolio covering RemcosRAT, Agent Tesla, GootLoader, Lumma Stealer, and Turla Neuron / DarkNeuron, with documented lab evidence, YARA and Sigma content, SPL hunting references, ATT&CK mapping, and incident reports. |
 | ☁️ **Enterprise Multi-Cloud CI/CD Platform** | GitHub Actions, Docker, Terraform, OpenID Connect authentication, AWS CodePipeline, Infrastructure as Code, and automated deployments across AWS and Azure. |
 | 🤖 **GitHub AI Agent** | AI-powered GitHub workflow automation with governance, human approvals, CI/CD integration, and security validation. |
 | 🧠 **AI Threat Hunt Agent with Microsoft Foundry and Sentinel** | AI-assisted SOC and threat-hunting platform integrating Microsoft Foundry, Microsoft Sentinel, Microsoft Defender XDR, KQL, STIX 2.1, YARA, behavioral watchlists, malware-analysis knowledge, and human-reviewed investigation workflows. |
@@ -286,6 +292,22 @@ The project separates static-analysis findings, imported intelligence, behaviora
 
 ---
 
+# Featured Project: Malware Analysis and Detection Engineering
+
+My case studies document authorized, isolated-lab work and keep observed behavior separate from capability analysis and threat-intelligence context.
+
+- **[RemcosRAT](https://github.com/jbanday808/ai-powered-threat-detection-platform/tree/main/case-studies/remcos)** — Static and dynamic investigation, network evidence, detection content, and incident reporting. A separate **[HTA / CyberChef case](https://github.com/jbanday808/ai-powered-threat-detection-platform/tree/main/case-studies/remcos-hta-cyberchef)** documents defensive decoding, behavioral evidence, remediation, and follow-up checks.
+- **[Agent Tesla](https://github.com/jbanday808/ai-powered-threat-detection-platform/tree/main/case-studies/agenttesla)** — Documented network investigation using Zeek, Suricata, YARA, Splunk examples, and an incident report. Possible exfiltration remains an investigation finding to assess in context.
+- **[GootLoader](https://github.com/jbanday808/ai-powered-threat-detection-platform/tree/main/case-studies/gootloader)** — Static JavaScript review, controlled dynamic analysis, Defender review, validated YARA, Sigma content, SPL hunts, and ATT&CK mapping. The recorded run did not establish second-stage activity.
+- **[Lumma Stealer](https://github.com/jbanday808/ai-powered-threat-detection-platform/tree/main/case-studies/lumma-stealer)** — IDA Pro function and import review, YARA validation, Defender remediation evidence, and reusable investigation reports. Identified capabilities do not establish successful credential theft.
+- **[Turla Neuron / DarkNeuron](https://github.com/jbanday808/ai-powered-threat-detection-platform/tree/main/case-studies/turla-neuron)** — .NET reverse engineering with dnSpy, controlled service-persistence analysis, YARA and Sigma content, hunting hypotheses, a SOAR playbook requiring human approval before containment or remediation, and documented cleanup verification. The isolated run did not show external C2 or production impact; public attribution remains background context.
+
+These studies demonstrate analysis and documentation work. They do not establish a production intrusion or independently validate every inferred capability.
+
+[Browse the malware-analysis case studies](https://github.com/jbanday808/ai-powered-threat-detection-platform/tree/main/case-studies)
+
+---
+
 # Featured Project: RHEL 10 Elastic Security Engineering Home Lab
 
 This hands-on lab uses two RHEL 10 virtual machines to demonstrate endpoint and server monitoring with Elastic Agent, Elastic Defend, and Logstash, with investigation and visualization in Elastic Cloud and Kibana.
@@ -308,7 +330,10 @@ I'm developing a three-VM Splunk Enterprise lab on VMware Workstation Pro to pra
 - **RHEL-IDM01** — Red Hat IdM directory server for DNS, secure LDAP, and role-based access testing
 - **Splunk Enterprise** — SIEM indexing, SPL searches, dashboards, and investigation references using the six existing lab indexes
 - **MITRE ATT&CK** — A framework connecting adversary behavior to hunt hypotheses, required telemetry, investigation pivots, and detection-coverage gaps; candidate and context-only mappings are not verified detections
-- **TraceVector** — A private interactive reference with the existing three-VM architecture, six optional analysis tools, traffic explorer, deployment phases, browser-local validation checklist, and five reference screenshots; hosted access requires the owner's ChatGPT sign-in
+- **TraceVector** — Built and privately published a nine-section threat-hunting workspace with lab objectives, scenarios, evidence tracking, STIG guidance, detection drafts, documentation, progress, and a review queue; hosted access requires the owner's ChatGPT sign-in
+- **Scenario lab** — The live private Site provides ten synthetic SPL investigations and 30 guided steps, with evidence tables, questions, explanations, fixed reference results, and saved practice progress
+- **Evidence and review** — Browser-local evidence attachments, documentation tracking, detection proposals, an activity log, and backup export/import; review decisions do not automatically modify GitHub or lab hosts
+- **Reference workbench** — Preserved the earlier architecture and traffic reference, including Splunk Enterprise as the SIEM platform and a separate ATT&CK hunting-framework panel
 - **Deployment documentation** — 52 deployment steps, optional appendices, troubleshooting procedures, configuration examples, and screenshot references
 - **Kali analysis workstation** — Optional Wireshark/TShark, Zeek, Suricata, Arkime, YARA, and Sigma setup and offline exercises; the guide does not claim a validated Kali deployment
 - **Arkime** — Optional RHEL sensor installation, session and packet investigation, baseline analysis, and controlled local capture procedures; Arkime-to-Splunk ingestion is not configured
@@ -319,7 +344,7 @@ I'm developing a three-VM Splunk Enterprise lab on VMware Workstation Pro to pra
 
 The repository includes synthetic DNS and HTTP exercises validated on a separate Linux host. Splunk event collection, Windows forwarding, secure LDAP authentication, and the optional network sensor remain in progress.
 
-[View the Splunk threat-hunting project](https://github.com/jbanday808/rhel-10v2-splunk-threat-hunting) · [TraceVector guide and screenshots](https://github.com/jbanday808/rhel-10v2-splunk-threat-hunting/blob/main/docs/network-defense/INTERACTIVE_LAB.md) · [MITRE ATT&CK hunting](https://github.com/jbanday808/rhel-10v2-splunk-threat-hunting/blob/main/docs/mitre-attack/README.md)
+[View the Splunk threat-hunting project](https://github.com/jbanday808/rhel-10v2-splunk-threat-hunting) · [Open the private Scenario lab](https://tracevector-lab.jamesbanday.chatgpt.site/#scenarios) · [Public source guide and screenshots](https://github.com/jbanday808/rhel-10v2-splunk-threat-hunting/blob/main/docs/network-defense/INTERACTIVE_LAB.md) · [MITRE ATT&CK hunting](https://github.com/jbanday808/rhel-10v2-splunk-threat-hunting/blob/main/docs/mitre-attack/README.md)
 
 [Kali workstation setup](https://github.com/jbanday808/rhel-10v2-splunk-threat-hunting/blob/main/docs/network-defense/KALI_DEPLOYMENT.md) · [Arkime installation and investigation](https://github.com/jbanday808/rhel-10v2-splunk-threat-hunting/blob/main/docs/arkime/IMPLEMENTATION_GUIDE.md) · [Synthetic HTTP investigation](https://github.com/jbanday808/rhel-10v2-splunk-threat-hunting/blob/main/docs/network-defense/OFFLINE_HTTP_WALKTHROUGH.md)
 
@@ -347,7 +372,7 @@ The repository includes synthetic DNS and HTTP exercises validated on a separate
 
 # Currently Building
 
-- **[RHEL 10.2 Splunk Threat Hunting Lab / TraceVector](https://github.com/jbanday808/rhel-10v2-splunk-threat-hunting)** — continuing deployment and validation, optional Kali and Arkime analysis, ATT&CK hunting documentation, and the interactive reference interface
+- **[RHEL 10.2 Splunk Threat Hunting Lab / TraceVector](https://github.com/jbanday808/rhel-10v2-splunk-threat-hunting)** — continuing core-lab deployment and validation, optional Kali and Arkime analysis, and ATT&CK hunting documentation while maintaining the published TraceVector training workspace
 - Microsoft Entra ID Identity Governance
 - Okta Identity and Access Management
 - AWS Identity and Access Management
